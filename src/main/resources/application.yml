@@ -21,10 +21,4 @@ spring:
     url: jdbc:postgresql://lallah.db.elephantsql.com:5432/mjscmiik?socketTimeout=3
     username: mjscmiik
     password: ywlSywM9OCEW8gzMZ_XCaWpiXQoIJfzS
-    driverClassName: org.postgresql.Driveecho "# TAREA" >> README.md
-  git init
-  git add .
-  git commit -m "primer commit"
-  git branch -M main
-  git remote add origin https://github.com/Andres10M/TAREA.git
-  git push -u origin mainr
+    driverClassName: org.postgresql.Driver
